@@ -173,10 +173,6 @@
         "outbound": "proxy"
       },
       {
-        "rule_set": "geosite-private",
-        "outbound": "direct"
-      },
-      {
         "ip_is_private": true,
         "outbound": "direct"
       },
