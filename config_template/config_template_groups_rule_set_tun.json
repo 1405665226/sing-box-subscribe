@@ -71,7 +71,6 @@
     {
       "type": "tun",
       "tag": "tun",
-      "interface_name": "tun_0",
       "inet4_address": "172.19.0.1/30",
       "mtu": 9000,
       "auto_route": true,
