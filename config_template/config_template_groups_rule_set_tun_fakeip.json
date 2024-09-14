@@ -108,6 +108,11 @@
       "outbounds":[
         "auto",
         "direct",
+        "🇭🇰 香港",
+        "🇹🇼 台湾",
+        "🇯🇵 日本",
+        "🇺🇸 美国",
+        "🇸🇬 新加坡",
         "{all}"
       ]
     },
@@ -125,7 +130,7 @@
       "tolerance": 50
     },
     {
-      "tag": "香港",
+      "tag": "🇭🇰 香港",
       "type": "urltest",
       "outbounds": [
         "{all}"
@@ -138,7 +143,7 @@
       "tolerance": 50
     },
     {
-      "tag": "台湾",
+      "tag": "🇹🇼 台湾",
       "type": "urltest",
       "outbounds": [
         "{all}"
@@ -151,7 +156,7 @@
       "tolerance": 50
     },
     {
-      "tag": "日本",
+      "tag": "🇯🇵 日本",
       "type": "urltest",
       "outbounds": [
         "{all}"
@@ -164,7 +169,7 @@
       "tolerance": 50
     },
     {
-      "tag": "美国",
+      "tag": "🇺🇸 美国",
       "type": "urltest",
       "outbounds": [
         "{all}"
@@ -177,7 +182,7 @@
       "tolerance": 50
     },
     {
-      "tag": "新加坡",
+      "tag": "🇸🇬 新加坡",
       "type": "urltest",
       "outbounds": [
         "{all}"
